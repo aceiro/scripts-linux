@@ -1,1 +1,1 @@
-# scripts-linux
+# Scripts Linux for General Purpose
